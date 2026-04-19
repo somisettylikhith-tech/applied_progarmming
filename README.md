@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
 | [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
 ## Matrix
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
