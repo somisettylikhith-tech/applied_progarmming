@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
