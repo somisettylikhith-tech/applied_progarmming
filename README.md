@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
 ## Hash Table
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
