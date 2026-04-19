@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
@@ -131,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
