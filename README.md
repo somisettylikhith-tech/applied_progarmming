@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0207-course-schedule) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
