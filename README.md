@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0994-rotting-oranges) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -74,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
@@ -99,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
