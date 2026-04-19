@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
