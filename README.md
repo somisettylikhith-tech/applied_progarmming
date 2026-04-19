@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
