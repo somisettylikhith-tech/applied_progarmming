@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
