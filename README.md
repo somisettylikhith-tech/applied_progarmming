@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 ## String
 |  |
