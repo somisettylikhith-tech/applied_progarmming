@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0542-01-matrix) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0049-group-anagrams) |
+| [0474-ones-and-zeroes](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
 ## Sorting
