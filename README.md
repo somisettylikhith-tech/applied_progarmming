@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0078-subsets) |
+| [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
 ## Geometry
 |  |
 | ------- |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/somisettylikhith-tech/applied_progarmming/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
